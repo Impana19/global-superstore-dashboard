@@ -1,4 +1,3 @@
-# global-superstore-dashboard
 # Global Superstore Sales Analysis Dashboard
 
 ## Project Overview
