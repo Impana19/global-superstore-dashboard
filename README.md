@@ -20,5 +20,7 @@ The analysis is based on the Global Superstore dataset containing sales, profit,
 
 ## Dashboard Preview
 https://drive.google.com/file/d/1dvrICw1jP9nC9kVe_nnwUDzJxSNk_I23/view?usp=sharing
-Dataset: https://docs.google.com/spreadsheets/d/17Av08rI1jJ7eGk0MuUA-4jsXxTkqW6Jp/edit?usp=sharing&ouid=105068478487404408532&rtpof=true&sd=true
+
+## Dataset: 
+https://docs.google.com/spreadsheets/d/17Av08rI1jJ7eGk0MuUA-4jsXxTkqW6Jp/edit?usp=sharing&ouid=105068478487404408532&rtpof=true&sd=true
 
